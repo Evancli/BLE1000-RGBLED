@@ -1,0 +1,76 @@
+PODS:
+  - ActionSheetPicker2 (0.1)
+  - AFNetworking (2.1.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.1.0):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.1.0)
+  - AFNetworking/Security (2.1.0)
+  - AFNetworking/Serialization (2.1.0)
+  - AFNetworking/UIKit (2.1.0):
+    - AFNetworking/NSURLConnection
+  - Base64nl (1.2)
+  - BlockAlertsAnd-ActionSheets (1.0.6):
+    - BlockAlertsAnd-ActionSheets/TableAlertView
+  - BlockAlertsAnd-ActionSheets/TableAlertView (1.0.6)
+  - CocoaSecurity (1.2.4)
+  - CorePlot (1.5.1)
+  - FPPopover (1.4.1)
+  - JazzHands (0.1.0)
+  - MD5Digest (0.1.0)
+  - MSLabel (0.0.1)
+  - MTDates (0.11.0)
+  - NSString-Hashes (1.2.2)
+  - SDWebImage (3.5.4):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5.4)
+  - STColorPicker (1.0.0)
+  - SVProgressHUD (1.0)
+  - YmsCoreBluetooth (1.09.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker2 (~> 0.1)
+  - AFNetworking (= 2.1.0)
+  - Base64nl (~> 1.2)
+  - BlockAlertsAnd-ActionSheets (~> 1.0.6)
+  - CocoaSecurity (~> 1.2.3)
+  - CorePlot (~> 1.4)
+  - FPPopover (~> 1.4.1)
+  - JazzHands (~> 0.1.0)
+  - MD5Digest (~> 0.1.0)
+  - MSLabel (~> 0.0.1)
+  - MTDates (~> 0.11.0)
+  - NSString-Hashes (~> 1.2.1)
+  - SDWebImage (~> 3.5.2)
+  - STColorPicker (~> 1.0.0)
+  - SVProgressHUD (~> 1.0)
+  - YmsCoreBluetooth (~> 1.09.1)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker2: 29191d3581b49cc10d3200de3f028548ac1aa9dd
+  AFNetworking: 7c33510b46f994bc75b75c6e63c1d83414ca40f2
+  Base64nl: 98b890ea8e2131561ea6aa0f2039ef82c35d47bf
+  BlockAlertsAnd-ActionSheets: 2f9d02f0c57b1789b7db3406ffad72a67f01ad83
+  CocoaSecurity: 7ce1b967863d4e96dcffdbad17671117900e6c6e
+  CorePlot: 4abaf1be82ff7d1220f4aed16996a93970ea5a0e
+  FPPopover: bbfc452ec8949a2c2f555cf2d8c7236e621811f0
+  JazzHands: 828e9d0d6609fdc9089d8049d64dd2ab45179d13
+  MD5Digest: 058b7162b1fc8c30feddf10bfe66e0565797c45f
+  MSLabel: 7dab676b135c0867705b905f2a8e6c930304265a
+  MTDates: d351005772d1087e3d26b985c4248efdce303bcb
+  NSString-Hashes: ddf6e856e93d3c83c5d4ef8fcdea2a96ed77c6bc
+  SDWebImage: 571295c8acbb699505a0f68e54506147c3de9ea7
+  STColorPicker: a41e665ca94b1113686b72111f4cca77b5caf08a
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+  YmsCoreBluetooth: afafd0f2cdbfe2df3b9f6de0df7718a4bcc1c7a4
+
+COCOAPODS: 0.33.1

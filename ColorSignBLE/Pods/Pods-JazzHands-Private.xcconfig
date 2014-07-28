@@ -1,0 +1,5 @@
+#include "Pods-JazzHands.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/JazzHands" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AFNetworking" "${PODS_ROOT}/Headers/ActionSheetPicker2" "${PODS_ROOT}/Headers/Base64nl" "${PODS_ROOT}/Headers/BlockAlertsAnd-ActionSheets" "${PODS_ROOT}/Headers/CocoaSecurity" "${PODS_ROOT}/Headers/CorePlot" "${PODS_ROOT}/Headers/FPPopover" "${PODS_ROOT}/Headers/JazzHands" "${PODS_ROOT}/Headers/MD5Digest" "${PODS_ROOT}/Headers/MSLabel" "${PODS_ROOT}/Headers/MTDates" "${PODS_ROOT}/Headers/NSString-Hashes" "${PODS_ROOT}/Headers/SDWebImage" "${PODS_ROOT}/Headers/STColorPicker" "${PODS_ROOT}/Headers/SVProgressHUD" "${PODS_ROOT}/Headers/YmsCoreBluetooth"
+OTHER_LDFLAGS = -ObjC ${PODS_JAZZHANDS_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}
